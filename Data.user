@@ -1,0 +1,9 @@
+---
+
+### **4. `data/users.csv` فائل (اختیاری):**
+
+اگر آپ صارفین کا ڈیٹا CSV فائل میں محفوظ کرنا چاہتے ہیں، تو یہ فائل بنائیں:
+
+```csv
+username,password,coins,refrels,clicks
+admin,admin123,0,0,0
